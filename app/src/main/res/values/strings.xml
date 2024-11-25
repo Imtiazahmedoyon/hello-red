@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hello red</string>
+    <string name="username">UserName</string>
+    <string name="create_new">Create New</string>
+    <string name="account">Account</string>
+    <string name="re_enter_password">RE-ENTER PASSWORD</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+</resources>

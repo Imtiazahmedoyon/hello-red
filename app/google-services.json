@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366133247603",
+    "project_id": "hellored64",
+    "storage_bucket": "hellored64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366133247603:android:8e2dfdae6650038c7e3406",
+        "android_client_info": {
+          "package_name": "com.example.hellored"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlsNJZofruNTAWmOQ_VxHLYj5-30sqPSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
