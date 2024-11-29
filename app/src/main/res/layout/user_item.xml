@@ -7,7 +7,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="114dp"
+        android:layout_height="@dimen/_80sdp"
         android:orientation="horizontal">
 
         <de.hdodenhof.circleimageview.CircleImageView
@@ -29,7 +29,7 @@
             <TextView
                 android:id="@+id/username"
                 android:layout_width="match_parent"
-                android:layout_height="53dp"
+                android:layout_height="wrap_content"
                 android:fontFamily="@font/poppins_bold"
                 android:text="Name"
                 android:textColor="@color/black"
@@ -37,13 +37,16 @@
 
             <TextView
                 android:id="@+id/userstatus"
-                android:layout_width="@dimen/_200sdp"
-                android:layout_height="59dp"
-                android:fontFamily="@font/poppins_regular"
-                android:text="Status"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
                 android:layout_gravity="bottom"
+                android:fontFamily="@font/poppins_regular"
+                android:text=""
                 android:textColor="@color/black"
-                android:textSize="10.40dp" />
+                android:textSize="10.40dp"
+                android:ellipsize="end"
+                android:maxLines="3"
+                android:importantForAccessibility="yes" />
 
         </LinearLayout>
 

@@ -1,18 +1,15 @@
 package com.example.hellored;
 
 
-import androidx.annotation.RequiresApi;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
-import android.app.ActivityOptions;
+
 import android.content.Intent;
-import android.os.Build;
+
 import android.os.Bundle;
 import android.os.Handler;
-import android.telephony.SmsManager;
-import android.util.Pair;
-import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
@@ -51,7 +48,7 @@ public class splash extends AppCompatActivity {
                 startActivity(intent);
                 finish();
             }
-        },4000);
+        },2000);
     }
 }
 
