@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.example.hellored" />
-                  <option name="mobileSdkAppId" value="1:366133247603:android:8e2dfdae6650038c7e3406" />
-                  <option name="projectId" value="hellored64" />
-                  <option name="projectNumber" value="366133247603" />
+                  <option name="appId" value="PLACEHOLDER" />
+                  <option name="mobileSdkAppId" value="" />
+                  <option name="projectId" value="" />
+                  <option name="projectNumber" value="" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
